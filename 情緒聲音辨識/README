@@ -16,9 +16,9 @@
 
 安裝與執行方式說明:
 一、在Github下載所需檔案
-      1.下載壓縮檔 project_listen.7z 
+      1.下載壓縮檔 project_listen.zip
       
-      2.下載壓縮檔 project_listen_send.7z 
+      2.下載壓縮檔 project_listen_send.zip
       
       3.下載文字檔 requirements.txt
         * 要記此檔的路徑，例如: C:\Users\user\Downloads *
@@ -45,7 +45,7 @@
 
 三、伺服端系統安裝
       
-      1.解壓縮 project_listen.7z 為資料夾 project_listen 
+      1.解壓縮 project_listen.zip 為資料夾 project_listen 
       
       2.至 Google雲端硬碟 下載資料夾 h5 
         連結：https://drive.google.com/drive/folders/1TtMiUozXBEINVaMxbp2vPLv8vJpx93LA?usp=sharing
@@ -74,7 +74,7 @@
         * 127.0.0.1只是本地IP，需換成可用的IP *
         
 五、客戶端系統安裝
-      1.解壓縮 project_listen_send.7z 為資料夾 project_listen_send
+      1.解壓縮 project_listen_send.zip 為資料夾 project_listen_send
       
       2.打開資料夾 project_listen_send
       
